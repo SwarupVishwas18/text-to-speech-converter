@@ -4,6 +4,7 @@ Simple CLI based Text To Speech Converter..!!
 ## Installation
 
 > pip install colorama
+
 > pip install gtts
 
 ## Output
