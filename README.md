@@ -1,5 +1,14 @@
 # text-to-speech-converter
-Simple CLI based Text To Speech Converter..!!
+CLI application of Text To Speech Converter
+
+## Features
+1. Convert whole text file into Audio
+2. Convert Given Input into Audio
+
+## Tech Stack
+1. gTTS -> Google-Text-To-Speech
+2. Python
+3. coloram for Colorful Console
 
 ## Installation
 
